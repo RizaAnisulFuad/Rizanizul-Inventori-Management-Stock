@@ -1,0 +1,147 @@
+[
+    {
+      "_id": "660570dbcd1941b241be54ee",
+      "name": "Example Product 10",
+      "price": 14.99,
+      "qty": 80,
+      "description": "Description for the tenth example product.",
+      "category": "Home Improvement",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54ef",
+      "name": "Example Product 11",
+      "price": 39.99,
+      "qty": 25,
+      "description": "Description for the eleventh example product.",
+      "category": "Electronics",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f0",
+      "name": "Example Product 12",
+      "price": 9.49,
+      "qty": 150,
+      "description": "Description for the twelfth example product.",
+      "category": "Clothing",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f1",
+      "name": "Example Product 13",
+      "price": 17.99,
+      "qty": 70,
+      "description": "Description for the thirteenth example product.",
+      "category": "Kitchen & Dining",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f2",
+      "name": "Example Product 14",
+      "price": 29.99,
+      "qty": 40,
+      "description": "Description for the fourteenth example product.",
+      "category": "Health & Household",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f3",
+      "name": "Example Product 15",
+      "price": 6.99,
+      "qty": 180,
+      "description": "Description for the fifteenth example product.",
+      "category": "Baby",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f4",
+      "name": "Example Product 16",
+      "price": 24.99,
+      "qty": 55,
+      "description": "Description for the sixteenth example product.",
+      "category": "Tools & Home Improvement",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f5",
+      "name": "Example Product 17",
+      "price": 11.49,
+      "qty": 95,
+      "description": "Description for the seventeenth example product.",
+      "category": "Pet Supplies",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f6",
+      "name": "Example Product 18",
+      "price": 49.99,
+      "qty": 20,
+      "description": "Description for the eighteenth example product.",
+      "category": "Office Products",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f7",
+      "name": "Example Product 19",
+      "price": 13.99,
+      "qty": 110,
+      "description": "Description for the nineteenth example product.",
+      "category": "Automotive",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f8",
+      "name": "Example Product 20",
+      "price": 21.99,
+      "qty": 65,
+      "description": "Description for the twentieth example product.",
+      "category": "Toys & Games",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54f9",
+      "name": "Example Product 21",
+      "price": 36.49,
+      "qty": 30,
+      "description": "Description for the twenty-first example product.",
+      "category": "Sports & Outdoors",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54fa",
+      "name": "Example Product 22",
+      "price": 7.99,
+      "qty": 140,
+      "description": "Description for the twenty-second example product.",
+      "category": "Beauty & Personal Care",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54fb",
+      "name": "Example Product 23",
+      "price": 16.99,
+      "qty": 75,
+      "description": "Description for the twenty-third example product.",
+      "category": "Books",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54fc",
+      "name": "Example Product 24",
+      "price": 31.99,
+      "qty": 35,
+      "description": "Description for the twenty-fourth example product.",
+      "category": "Home & Kitchen",
+      "__v": 0
+    },
+    {
+      "_id": "660570dbcd1941b241be54fd",
+      "name": "Example Product 25",
+      "price": 54.99,
+      "qty": 15,
+      "description": "Description for the twenty-fifth example product.",
+      "category": "Electronics",
+      "__v": 0
+    }
+  ]
+  
