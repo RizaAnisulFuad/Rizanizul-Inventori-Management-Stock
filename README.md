@@ -58,11 +58,11 @@ Follow the steps below to set up and run the project
 
 # Screenshots
 
-<img src= "https://github.com/RizaAnisulFuad/Rizanizul-Inventori-Management-Stock/blob/main/screenshoot/inventory%20management%20stock.PNG" width:"500"/>
+<img src="https://github.com/RizaAnisulFuad/Rizanizul-Inventori-Management-Stock/blob/main/screenshoot/inventory%20management%20stock.PNG" width:"500"/>
 
 
 
-Demo App
+# Demo App
 
 https://drive.google.com/file/d/1pnk51zK4pf3FQPZxEiojNpZ_KaCWWNpf/view?usp=sharing
 
