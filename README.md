@@ -55,11 +55,15 @@ Follow the steps below to set up and run the project
    npm build
    ```
 
+   ## Noted
+1. **product-app is Backend API, productfe-app is Frontend.**
+2. **first, run Backend, after that run Frontend**
+3. **Create account in mongo Atlas, mongo Compass, and postMan**
+4. 
 
 # Screenshots
 
-<img src="https://github.com/RizaAnisulFuad/Rizanizul-Inventori-Management-Stock/blob/main/screenshoot/inventory%20management%20stock.PNG" width:"500"/>
-
+<img src="https://github.com/RizaAnisulFuad/Rizanizul-Inventori-Management-Stock/blob/main/screenshoot/inventory%20management%20stock.PNG" width="500" />
 
 
 # Demo App
